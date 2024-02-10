@@ -7,3 +7,4 @@ app.tsk
 ListGroup.tsx
      
   I was reffering to this video by Mosh => https://www.youtube.com/watch?v=SqcY0GlETPk&t=3755s     
+     Edit: issues fixed in new repo
