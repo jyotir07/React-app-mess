@@ -2,7 +2,7 @@
 
 I was trying some things out while learning react and typescript     
 Then I messed up by changing the code location in a file     
-# 💨The messed up files are:     
+# 💨The messed up files are         
 app.tsk      
 ListGroup.tsx
      
